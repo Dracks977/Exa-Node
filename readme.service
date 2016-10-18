@@ -1,0 +1,4 @@
+Pour utiler index.js comme un service :
+	sudo service supervisord start/stop
+
+a faire : facettes agregation etc...
